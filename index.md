@@ -2,7 +2,7 @@
 
 ### ICT,CAS  
 ### [Institute of Computing Technology, Chinese Academy of Sciences (ICT CAS)](http://www.ict.ac.cn/)  
-### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  System Software Engineer
+### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  Post:System Software Engineer
 
 
 
@@ -11,28 +11,20 @@
 ### Research interests
  Computer System Architecture、Interconnection Network 、Heterogeneous Resource Scheduling、Programming Model
 ### Education
-1.  2016-9至2019-7, **University of Chinese Academy of Sciences(UCAS)**, Computer Science, **PhD**(Tutor: **Professor Ninghui Sun(孙凝晖)**)
-2.  2010-9至2013-3, **Beijing University of Posts and Telecommunications(BPUT)**,Electronic Engineering, **Master**(导师: **Professor Jinchun Gao（高锦春）**)
-3.  2006-9至2010-7, **Xidian University**, **Bachelor**
+1.  2016-9 to 2019-7, **University of Chinese Academy of Sciences(UCAS)**, Computer Science, **PhD**(Tutor: **Professor Ninghui Sun(孙凝晖)**)
+2.  2010-9 to 2013-3, **Beijing University of Posts and Telecommunications(BPUT)**,Electronic Engineering, **Master**(导师: **Professor Jinchun Gao（高锦春）**)
+3.  2006-9 to 2010-7, **Xidian University**, **Bachelor**
 
-### 工作经历：
+### Work Experience：
+1.  2013-6 to Now,Institute of Computing Technology, Chinese Academy of Sciences, Engineer
 
-1.  2013-6至今,中国科学院计算技术研究所 (高性能计算机研究中心),工程师
-
-### 主持或参加科研项目：
-
-1. 国家重点研发计划，E级高性能计算机原型系统研制，已结题，主持
-2. 科学院（先导B），超高带宽光交互网络研究及原型系统验证，在研，参加
-3. 总装预研，自主异构计算资源融合调度与管理技术，在研，主持
-
-
-### 会议论文
+### Publication: Conference Paper
 1.  **En Shao（邵恩）**, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun. A new traffic offloading method with slow switching optical device in exascale computer[C]//2019 IEEE 37th International Conference on Computer Design, ICCD 2019 (CCF B类)
 2.   **En Shao（邵恩）**, Guangming Tan , Zhan Wang , Ninghui Sun, “OeIM: An Optoelectronic Interconnection Middleware for Exascale Computing”, HPCC 2019 (CCF C类)
 3.   **En Shao（邵恩）**, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun, “sDNA: Software Define Network Accelerator based on Optical Interconnection Architecture”, SC 19 Poster (CCF A类)
 4.  Zhen Xie, Zheng Cao, Zhan Wang, Dawei Zang, **En Shao（邵恩）**, Ninghui Sun: Modeling Traffic of Big Data Platform for Large Scale Datacenter Networks. ICPADS 2016 (CCF C类)
 
-### 期刊论文
+### Publication: Journal Paper
 5.	**En Shao（邵恩）**, Zhan Wang, Guojun Yuan, Guangming Tan , Ninghui Sun, “Wormhole Optical Network: A new architecture to solve long diameter problem in exascale computer”, [J]. CCF Transactions on High Performance Computing（CCF THPC）, 2019, 1(2):73-91. 
 6.	**邵恩**、孙凝晖、郭嘉梁、元国军、王展、曹政.基于事件驱动的MapReduce类流量产生方法与网络评测， [J].《计算机学报》,2018,41(10):2265-2281.
 7.	**邵恩**、元国军、郇志轩、曹政、孙凝晖.面向大规模计算机群的多轨分割网络，[J].《计算机研究与发展》，2017年11期第54卷.
