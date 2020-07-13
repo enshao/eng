@@ -12,11 +12,11 @@ Post: System Software Engineer
 ### Research interests
  Computer System Architecture、Interconnection Network 、Heterogeneous Resource Scheduling、Programming Model
 ### Education
-1.  **PhD**: 2016-9 to 2019-7, **University of Chinese Academy of Sciences(UCAS)**, Computer Science
-(Tutor: **Professor Ninghui Sun**)
-2.  **Master**: 2010-9 to 2013-3, **Beijing University of Posts and Telecommunications(BPUT)**, Electronic Engineering
-(Tutor: **Professor Jinchun Gao**)
-3.  **Bachelor**: 2006-9 to 2010-7, **Xidian University**
+1.  **PhD**: 2016-9 to 2019-7, University of Chinese Academy of Sciences(**UCAS**), Computer Science
+(Tutor: Professor Ninghui Sun)
+2.  **Master**: 2010-9 to 2013-3, Beijing University of Posts and Telecommunications(**BPUT**), Electronic Engineering
+(Tutor: Professor Jinchun Gao)
+3.  **Bachelor**: 2006-9 to 2010-7, Xidian University(**Xidian**)
 
 ### Work Experience：
 1.  2013-6 to Now,Institute of Computing Technology, Chinese Academy of Sciences, Engineer
