@@ -2,7 +2,8 @@
 
 ### ICT,CAS  
 ### [Institute of Computing Technology, Chinese Academy of Sciences (ICT CAS)](http://www.ict.ac.cn/)  
-### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  Post:System Software Engineer
+### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  
+Post: System Software Engineer
 
 
 
