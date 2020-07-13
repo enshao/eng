@@ -1,16 +1,19 @@
 
 
 ### ICT,CAS  
-### [中国科学院计算技术研究所](http://www.ict.ac.cn/)  
-### [高性能计算机研究中心](http://www.ncic.ac.cn/index.php)  研发工程师
+### [Institute of Computing Technology, Chinese Academy of Sciences (ICT CAS)](http://www.ict.ac.cn/)  
+### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  System Software Engineer
 
-### 邮箱：shaoen@ict.ac.cn 
-### 研究方向
-计算机体系结构、异构互连网络、异构资源调度、编程模型
-### 教育经历
-1.  2016-9至2019-7, **中国科学院大学**, 计算机系统结构, **博士**(导师: **孙凝晖**)
-2.  2010-9至2013-3, **北京邮电大学**,电子科学与技术, **硕士**(导师: **高锦春**)
-3.  2006-9至2010-7, **西安电子科技大学**, **本科**
+
+
+
+### Mail：shaoen@ict.ac.cn 
+### Research interests
+ Computer System Architecture、Interconnection Network 、Heterogeneous Resource Scheduling、Programming Model
+### Education
+1.  2016-9至2019-7, **University of Chinese Academy of Sciences(UCAS)**, Computer Science, **PhD**(Tutor: **Professor Ninghui Sun(孙凝晖)**)
+2.  2010-9至2013-3, **Beijing University of Posts and Telecommunications(BPUT)**,Electronic Engineering, **Master**(导师: **Professor Jinchun Gao（高锦春）**)
+3.  2006-9至2010-7, **Xidian University**, **Bachelor**
 
 ### 工作经历：
 
