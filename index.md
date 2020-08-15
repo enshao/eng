@@ -33,7 +33,7 @@ Post: System Software Engineer
 7.	**[CRAD]**:**En Shao**, GuoJun YUAN, Zhixuan Huan, Zheng CAO, Ninghui Sun. A Sliced Multi-Rail Interconnection Network for Large-Scale Clusters，[J].Journal of Computer Research and Development, 2017,11(54). (EI)
 8.	**[IJPP]**:Yong Su, Zhan Wang, Zhiguo Fan, Zheng Cao, Xiaoli Liu, **En Shao**, Xuejun An, Ninghui Sun: HyperFatTree: A Large-Scale Tree-Based Network with Low-Radix Switches. International Journal of Parallel Programming 45(1): 172-184 (2017) (SCI, IF: 1.258)
 9.	**[CRAD]**:Yang Fan, Zhang Peng, Wang Zhan, Yuan Guojun, **En Shao**, An Xuejun. A ccelerating Byzantine Fault Tolerance with In Network Computing，[J].Journal of Computer Research and Development，Accepted in 2020. (EI)
-10.	**[CJC]**:Xiaoxiao Ma, Gang Lu, Binzhang Fu, Zhongqi An, Hongrui Zhu, **En Shao**, Wang Zhan, An Xuejun. Implementation Methods and Performance Analysis of Non-contiguous Data Communication In Network，[J].Chinese Journal of Computers, Accepted in 2020. (EI)
+10.	**[CJC]**:Xiaoxiao Ma, Gang Lu, Binzhang Fu, Zhongqi An, Hongrui Zhu, **En Shao**, Wang Zhan, An Xuejun. Implementation Methods and Performance Analysis of Non-contiguous Data Communication In Network，[J].Chinese Journal of Computers, 2020,43(06):1123-1138. (EI)
 
 ### Academic Reward
 1. ICT CAS, Annually Outstanding Engineer, 2018
