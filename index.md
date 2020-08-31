@@ -19,11 +19,18 @@ Post: System Software Engineer
 3.  **Bachelor**: 2006-9 to 2010-7, Xidian University(**Xidian**)
 
 ### Work Experience：
-1.  2013-6 to Now,Institute of Computing Technology, Chinese Academy of Sciences, Engineer
+1.  2013-6 to Now, Institute of Computing Technology, Chinese Academy of Sciences, Engineer
+
+### Academic Service：
+1.IEEE Trans. On Computer (special issue): Review Committee
+2.IFIP NPC 2020: Web Chair
+3.IFIP NPC 2020: Program Committee
+4.IEEE Cluster 2020: Technical Program Committees
+5.IEEE HPCC 2020: Program Committee 
 
 ### Publication: Conference Paper
 1.  **[ICCD 19]**:**En Shao**, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun. A new traffic offloading method with slow switching optical device in exascale computer[C]//2019 IEEE 37th International Conference on Computer Design, ICCD 2019 (CCF Rank B)
-2.  **[HPCC 19]**:**En Shao**, Guangming Tan, Zhan Wang , Ninghui Sun, “OeIM: An Optoelectronic Interconnection Middleware for Exascale Computing”, HPCC 2019 (CCF Rank C)
+2.  **[HPCC 19]**:**En Shao**, Guangming Tan, Zhan Wang, Ninghui Sun, “OeIM: An Optoelectronic Interconnection Middleware for Exascale Computing”, HPCC 2019 (CCF Rank C)
 3.  **[SC 19 poster]**:**En Shao**, Guangming Tan, Zhan Wang, Guojun Yuan, Ninghui Sun, “sDNA: Software Define Network Accelerator based on Optical Interconnection Architecture”, SC 19 Poster (CCF Rank A)
 4.  **[ICPADS 16]**:Zhen Xie, Zheng Cao, Zhan Wang, Dawei Zang, **En Shao**, Ninghui Sun: Modeling Traffic of Big Data Platform for Large Scale Datacenter Networks. ICPADS 2016 (CCF Rank C)
 
