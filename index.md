@@ -1,7 +1,6 @@
 
 
-### ICT,CAS  
-### [Institute of Computing Technology, Chinese Academy of Sciences (ICT CAS)](http://www.ict.cas.cn/)  
+### [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/)  (ICT, CAS)
 ### [HPC Research Center](http://www.ncic.ac.cn/index.php)  Associate Professor
 
 
