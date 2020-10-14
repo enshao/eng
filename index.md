@@ -2,7 +2,7 @@
 
 ### ICT,CAS  
 ### [Institute of Computing Technology, Chinese Academy of Sciences (ICT CAS)](http://www.ict.cas.cn/)  
-### [High Performance Computer Research Center](http://www.ncic.ac.cn/index.php)  Associate Professor
+### [HPC Research Center](http://www.ncic.ac.cn/index.php)  Associate Professor
 
 
 中文个人主页请访问[这里](https://enshao.github.io)  
