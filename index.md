@@ -8,7 +8,7 @@
 
 ### Mail：shaoen@ict.ac.cn 
 ### Research interests
- Computer System Architecture、Interconnection Network 、Heterogeneous Resource Scheduling、Programming Model
+ Computer System Architecture、Cluster OS
 ### Education
 1.  **PhD**: 2016-9 to 2019-7, University of Chinese Academy of Sciences(**UCAS**), Computer Science
 (Tutor: Professor Ninghui Sun)
