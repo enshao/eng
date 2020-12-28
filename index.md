@@ -6,7 +6,8 @@
 
 中文个人主页请访问[这里](https://enshao.github.io)  
 
-### Mail：shaoen@ict.ac.cn 
+### [Mail：shaoen@ict.ac.cn] 
+
 ### Research interests
  Computer System Architecture、Cluster OS
 ### Education
