@@ -3,10 +3,10 @@
 ### [Institute of Computing Technology, Chinese Academy of Sciences](http://www.ict.cas.cn/)  (ICT, CAS)
 ### [HPC Research Center](http://www.ncic.ac.cn/index.php)  Associate Professor
 
+E-Mail：shaoen@ict.ac.cn
 
 中文个人主页请访问[这里](https://enshao.github.io)  
 
-### [Mail：shaoen@ict.ac.cn] 
 
 ### Research interests
  Computer System Architecture、Cluster OS
