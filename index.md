@@ -45,7 +45,8 @@ E-Mail：shaoen@ict.ac.cn
 11.	**[CJC]**:Xiaoxiao Ma, Gang Lu, Binzhang Fu, Zhongqi An, Hongrui Zhu, **En Shao**, Wang Zhan, An Xuejun. Implementation Methods and Performance Analysis of Non-contiguous Data Communication In Network，[J].Chinese Journal of Computers, 2020,43(06):1123-1138. (EI)
 
 ### Academic Reward
-1. ICT CAS, Annually Outstanding Engineer, 2018
-2. SKL of Computer Architecture，Annually Outstanding Staff, 2017
-3. CCF HPC Committee, Best Paper Reward, 2016
-4. BMEC，Outstanding Graduate，2013
+1. CAS, Youth Innovation Promotion Association, 2021
+2. ICT CAS, Annually Outstanding Engineer, 2018
+3. SKL of Computer Architecture，Annually Outstanding Staff, 2017
+4. CCF HPC Committee, Best Paper Reward, 2016
+5. BMEC，Outstanding Graduate，2013
