@@ -19,7 +19,7 @@ E-Mail：shaoen@ict.ac.cn
 
 ### Work Experience：
 1.  2013-6 to 2020-9, Institute of Computing Technology, Chinese Academy of Sciences, Engineer
-2.  2020-10 to Now, Institute of Computing Technology, Chinese Academy of Sciences, Associate Professor
+2.  2020-10 to Now, Institute of Computing Technology, Chinese Academy of Sciences, Associate Professor & Master Tutor
 
 ### Academic Service：
 1.  IFIP NPC 2020: Web Chair
